@@ -1,0 +1,14 @@
+.footer-com{
+	width:100%;
+	height:100px;
+	background:#f0f4f7;
+	text-align: center;
+	line-height:100px;
+}
+.footer-com span{
+	color:#333;
+	font-size:18px;
+}
+.footer-com span a{
+	color:#1E90FF
+}

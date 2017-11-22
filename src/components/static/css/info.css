@@ -1,0 +1,30 @@
+.info-li{
+	width:800px;
+	margin:100px auto 50px;
+}
+.info-li li{
+	width:800px;
+	height:40px;
+	border-bottom:1px solid #E2E2E2;
+	line-height:40px;
+	font-size:16px;
+	color:#333;
+}
+.info-li li a{
+	color:#333
+}
+
+.info-footer{
+	width:100%;
+	height:100px;
+	background:#f0f4f7;
+	text-align: center;
+	line-height:100px;
+}
+.info-footer span{
+	color:#333;
+	font-size:18px;
+}
+.info-footer span a{
+	color:#1E90FF
+}
