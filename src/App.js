@@ -18,15 +18,13 @@ class App extends Component {
         				<li><Link to="/info" activeClassName="active" >通知公告</Link></li>
         				<li><Link to="/contribute" activeClassName="active" >贡献榜</Link></li>
         				<li><Link to="/gift" activeClassName="active" >礼品兑换</Link></li>
-                        <li><Link to="/reg" activeClassName="active">注册</Link></li>
+                <li><Link to="/reg" activeClassName="active">注册</Link></li>
         				<li><a href="#">登录</a></li>
         			</ul>
         	</div>
         	<div className="child">
         			{this.props.children}
         	</div>
-
-
         	
       </div>
     );
